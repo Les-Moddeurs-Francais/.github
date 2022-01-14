@@ -1,1 +1,1 @@
-# Code de conduite de LMF
+# Code of conduct
