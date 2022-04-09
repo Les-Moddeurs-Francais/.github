@@ -4,3 +4,4 @@ Cette organisation a pour but de transmettre des connaissances en modding grace 
 
 - ### [🌍 Siteweb](https://lesmoddeursfrancais.fr/): Site web de LMF.
 - ### [🎙 Discord](https://discord.lesmoddeursfrancais.fr/): Discord du projet LMF.
+- ### [📖 Documentation](https://forge-doc.lesmoddeursfrancais.fr/) : Documentation non officielle du projet MinecraftForge
